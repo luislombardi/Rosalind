@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """ Problem
 A string is simply an ordered collection of symbols selected from some alphabet and formed into a word; the length of a string is the number of symbols that it contains.
 
@@ -17,4 +18,13 @@ c = s.count("C")
 g = s.count("G")
 t = s.count("T")
 
+=======
+s = open("C:\\Users\\Usuario\\Downloads\\rosalind_dna.txt").read()
+
+a = s.count("A")
+c = s.count("C")
+g = s.count("G")
+t = s.count("T")
+
+>>>>>>> 31750ee3c41068074e22e8f7d4a45727f92c21f8
 print(a, c, g, t)
