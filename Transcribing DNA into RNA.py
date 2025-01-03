@@ -19,7 +19,7 @@ GATGGAACTTGACTACGTAAATT
 Sample Output
 GAUGGAACUUGACUACGUAAAUU
 '''
-t = open("C:\\Users\\Usuario\\Downloads\\rosalind_dna2.txt").read()
+t = open("C:\\Users\\Usuario\\Downloads\\rosalind_rna.txt").read()
 
 u = t.replace("T", "U")
 
